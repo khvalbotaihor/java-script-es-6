@@ -13,6 +13,7 @@ console.log({a})*/
 
 
 //hoisting
+b= 20
 console.log({b})
 
-var b = 10
+let b = 10
