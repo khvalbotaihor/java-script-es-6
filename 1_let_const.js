@@ -13,3 +13,6 @@ console.log({a})*/
 
 
 //hoisting
+console.log({b})
+
+var b = 10
