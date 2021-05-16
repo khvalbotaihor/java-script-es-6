@@ -29,3 +29,4 @@ console.log(age)*/
 
 
 //const
+const COLOR = "#fff"
