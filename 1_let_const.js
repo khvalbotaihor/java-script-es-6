@@ -19,9 +19,13 @@ console.log({b})
 
 let b = 10*/
 
+/*
 function hoisted() {
     age = 26
 }
 let age
 hoisted()
-console.log(age)
+console.log(age)*/
+
+
+//const
