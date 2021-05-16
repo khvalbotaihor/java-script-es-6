@@ -30,3 +30,4 @@ console.log(age)*/
 
 //const
 const COLOR = "#fff"
+console.log({COLOR})
