@@ -9,9 +9,8 @@ function cube(a) {
 let a = sum(2,3)
 let b = cube(3)
 console.log({a, b})*/
-const sum = (a,b) => {
-    return a + b
-}
+const sum = (a,b) => a + b
 const cube = a => a ** 3
 
+console.log(sum(2,3))
 console.log(cube(3))
