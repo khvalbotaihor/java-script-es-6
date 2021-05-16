@@ -12,5 +12,9 @@ console.log({a, b})*/
 const sum = (a,b) => a + b
 const cube = a => a ** 3
 
-console.log(sum(2,3))
-console.log(cube(3))
+// console.log(sum(2,3))
+// console.log(cube(3))
+
+setTimeout(function () {
+    console.log("After 1 second")
+},1000)
