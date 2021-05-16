@@ -30,4 +30,14 @@ console.log(age)*/
 
 //const
 const COLOR = "#fff"
+/*
+COLOR = "#000"
+*/
+/*
 console.log({COLOR})
+*/
+
+const array = [1,3,5,8]
+console.log({array})
+array.push(13)
+console.log({array})
