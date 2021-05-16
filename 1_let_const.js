@@ -13,7 +13,14 @@ console.log({a})*/
 
 
 //hoisting
+/*
 b= 20
 console.log({b})
 
-let b = 10
+let b = 10*/
+
+function hoisted() {
+    age = 26
+}
+let agen
+hoisted()
